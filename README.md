@@ -162,11 +162,9 @@ Relevant areas of study include:
 
 ## GitHub Activity 📊
 
-![Nester's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&hide_border=true\&count_private=true)
+![Nester's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nester09&show_icons=true&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&hide_border=true)
-
-> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username after creating the repository.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nester09&layout=compact&hide_border=true)
 
 ---
 
